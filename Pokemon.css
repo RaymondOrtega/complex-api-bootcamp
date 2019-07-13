@@ -1,0 +1,41 @@
+span{
+display: block;
+}
+.poke{
+  margin: 0 0 0 20%;
+}
+.imgCont{
+  float: left;
+  display: inline-block;
+  margin: 100px 0 0 0%;
+  height:400px;
+  width:25%;
+
+}
+body{
+  background-image: url(pokemonGo.jpeg);
+}
+.pro{
+  margin: 90px 0 0 90px;
+}
+.containList{
+  float: left;
+  display: inline-block;
+  margin: 90px 0 0 0%;
+  width:50%;
+  background-color: rgba(255, 255, 255, 0.5);
+  font-weight: 600;
+}
+button{
+  margin: 0 0 30px 0%;
+  font-size:15px;
+  font-weight: 600;
+  color: orange;
+  height:30px;
+  width:30%;
+}
+input{
+  margin: 0 0 0 15%;
+  height:25px;
+  width:30%;
+}
